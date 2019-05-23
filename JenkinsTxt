@@ -1,2 +1,4 @@
 This is jenkins pratice.
 Jenkins is continuous intergration and continuous deployment tool which is written in java.
+It requires to java 1.8 and java home configrued.
+
